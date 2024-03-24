@@ -1,0 +1,120 @@
+[main] INFO Log - Expected Title of Orange HRM loginpage is: OrangeHRM
+[main] INFO Log - Actual Title of Orange HRM loginpage is: OrangeHRM
+[main] INFO Log - Both Actual and Expected Titles of OrangeHRM login page are same - PASS
+[main] INFO Log - Expected Url Address of Orange HRM loginpage is: orangehrm-4.2.0.1
+[main] INFO Log - Actual Url Address of Orange HRM loginpage is: http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+[main] INFO Log - Its a Login Page of OrangeHRM Application - PASS
+[main] INFO Log - Expected Text of login panel of orangeHRM Login page is: LOGIN Panel
+[main] INFO Log -  Actual Text of login panel of orangeHRM Login page is: LOGIN Panel
+[main] INFO Log - Actual and Expected Texts of LOGIN Panel of orangeHRM Login page are same - PASS
+[main] INFO Log - Expected Text of WelcomeAdmin is: Admin
+[main] INFO Log - Actual Text of WelcomeAdmin is:Welcome Admin
+[main] INFO Log - Actual Text of WelcomeAdmin contains Expected Text of WelcomeAdmin - PASS
+[main] INFO Log - Expected Text of login panel of orangeHRM Login page is: "+ExpectedText_loginPanel
+[main] INFO Log - Expected Title of Orange HRM loginpage is: OrangeHRM
+[main] INFO Log - Actual Title of Orange HRM loginpage is: OrangeHRM
+[main] INFO Log - Both Actual and Expected Titles of OrangeHRM login page are same - PASS
+[main] INFO Log - Expected Url Address of Orange HRM loginpage is: orangehrm-4.2.0.1
+[main] INFO Log - Actual Url Address of Orange HRM loginpage is: http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+[main] INFO Log - Its a Login Page of OrangeHRM Application - PASS
+[main] INFO Log - Expected Text of login panel of orangeHRM Login page is: LOGIN Panel
+[main] INFO Log -  Actual Text of login panel of orangeHRM Login page is: LOGIN Panel
+[main] INFO Log - Actual and Expected Texts of LOGIN Panel of orangeHRM Login page are same - PASS
+[main] INFO Log - Expected Text of WelcomeAdmin is: Admin
+[main] INFO Log - Actual Text of WelcomeAdmin is:Welcome Admin
+[main] INFO Log - Actual Text of WelcomeAdmin contains Expected Text of WelcomeAdmin - PASS
+[main] INFO Log - Expected Text of login panel of orangeHRM Login page is: "+ExpectedText_loginPanel
+[main] INFO Log - Expected Title of Orange HRM loginpage is: OrangeHRM
+[main] INFO Log - Actual Title of Orange HRM loginpage is: OrangeHRM
+[main] INFO Log - Both Actual and Expected Titles of OrangeHRM login page are same - PASS
+[main] INFO Log - Expected Url Address of Orange HRM loginpage is: orangehrm-4.2.0.1
+[main] INFO Log - Actual Url Address of Orange HRM loginpage is: http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+[main] INFO Log - Its a Login Page of OrangeHRM Application - PASS
+[main] INFO Log - Expected Text of login panel of orangeHRM Login page is: LOGIN Panel
+[main] INFO Log -  Actual Text of login panel of orangeHRM Login page is: LOGIN Panel
+[main] INFO Log - Actual and Expected Texts of LOGIN Panel of orangeHRM Login page are same - PASS
+[main] INFO Log - Expected Text of WelcomeAdmin is: Admin
+[main] INFO Log - Actual Text of WelcomeAdmin is:Welcome Admin
+[main] INFO Log - Actual Text of WelcomeAdmin contains Expected Text of WelcomeAdmin - PASS
+[main] INFO Log - Expected Text of login panel of orangeHRM Login page is: "+ExpectedText_loginPanel
+[main] INFO Log - Employee Photograph Successfully Uploaded to the OrangeHRM Application
+[main] INFO Log - Expected Title of Orange HRM loginpage is: OrangeHRM
+[main] INFO Log - Actual Title of Orange HRM loginpage is: OrangeHRM
+[main] INFO Log - Both Actual and Expected Titles of OrangeHRM login page are same - PASS
+[main] INFO Log - Expected Url Address of Orange HRM loginpage is: orangehrm-4.2.0.1
+[main] INFO Log - Actual Url Address of Orange HRM loginpage is: http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+[main] INFO Log - Its a Login Page of OrangeHRM Application - PASS
+[main] INFO Log - Expected Text of login panel of orangeHRM Login page is: LOGIN Panel
+[main] INFO Log -  Actual Text of login panel of orangeHRM Login page is: LOGIN Panel
+[main] INFO Log - Actual and Expected Texts of LOGIN Panel of orangeHRM Login page are same - PASS
+[main] INFO Log - Expected Text of WelcomeAdmin is: Admin
+[main] INFO Log - Actual Text of WelcomeAdmin is:Welcome Admin
+[main] INFO Log - Actual Text of WelcomeAdmin contains Expected Text of WelcomeAdmin - PASS
+[main] INFO Log - Expected Text of login panel of orangeHRM Login page is: "+ExpectedText_loginPanel
+[main] INFO Log - Expected Title of Orange HRM loginpage is: OrangeHRM
+[main] INFO Log - Actual Title of Orange HRM loginpage is: OrangeHRM
+[main] INFO Log - Both Actual and Expected Titles of OrangeHRM login page are same - PASS
+[main] INFO Log - Expected Url Address of Orange HRM loginpage is: orangehrm-4.2.0.1
+[main] INFO Log - Actual Url Address of Orange HRM loginpage is: http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+[main] INFO Log - Its a Login Page of OrangeHRM Application - PASS
+[main] INFO Log - Expected Text of login panel of orangeHRM Login page is: LOGIN Panel
+[main] INFO Log -  Actual Text of login panel of orangeHRM Login page is: LOGIN Panel
+[main] INFO Log - Actual and Expected Texts of LOGIN Panel of orangeHRM Login page are same - PASS
+[main] INFO Log - Expected Text of WelcomeAdmin is: Admin
+[main] INFO Log - Actual Text of WelcomeAdmin is:Welcome Admin
+[main] INFO Log - Actual Text of WelcomeAdmin contains Expected Text of WelcomeAdmin - PASS
+[main] INFO Log - Expected Text of login panel of orangeHRM Login page is: "+ExpectedText_loginPanel
+[main] INFO Log - Employee Photograph Successfully Uploaded to the OrangeHRM Application
+[main] INFO Log - Employee Photograph Successfully Uploaded to the OrangeHRM Application
+[main] INFO Log - Employee Photograph Successfully Uploaded to the OrangeHRM Application
+[main] INFO Log - Expected Title of Orange HRM loginpage is: OrangeHRM
+[main] INFO Log - Actual Title of Orange HRM loginpage is: OrangeHRM
+[main] INFO Log - Both Actual and Expected Titles of OrangeHRM login page are same - PASS
+[main] INFO Log - Expected Url Address of Orange HRM loginpage is: orangehrm-4.2.0.1
+[main] INFO Log - Actual Url Address of Orange HRM loginpage is: http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+[main] INFO Log - Its a Login Page of OrangeHRM Application - PASS
+[main] INFO Log - Expected Text of login panel of orangeHRM Login page is: LOGIN Panel
+[main] INFO Log -  Actual Text of login panel of orangeHRM Login page is: LOGIN Panel
+[main] INFO Log - Actual and Expected Texts of LOGIN Panel of orangeHRM Login page are same - PASS
+[main] INFO Log - Expected Text of WelcomeAdmin is: Admin
+[main] INFO Log - Actual Text of WelcomeAdmin is:Welcome Admin
+[main] INFO Log - Actual Text of WelcomeAdmin contains Expected Text of WelcomeAdmin - PASS
+[main] INFO Log - Expected Text of login panel of orangeHRM Login page is: "+ExpectedText_loginPanel
+[main] INFO Log - Expected Title of Orange HRM loginpage is: OrangeHRM
+[main] INFO Log - Actual Title of Orange HRM loginpage is: OrangeHRM
+[main] INFO Log - Both Actual and Expected Titles of OrangeHRM login page are same - PASS
+[main] INFO Log - Expected Url Address of Orange HRM loginpage is: orangehrm-4.2.0.1
+[main] INFO Log - Actual Url Address of Orange HRM loginpage is: http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+[main] INFO Log - Its a Login Page of OrangeHRM Application - PASS
+[main] INFO Log - Expected Text of login panel of orangeHRM Login page is: LOGIN Panel
+[main] INFO Log -  Actual Text of login panel of orangeHRM Login page is: LOGIN Panel
+[main] INFO Log - Actual and Expected Texts of LOGIN Panel of orangeHRM Login page are same - PASS
+[main] INFO Log - Expected Text of WelcomeAdmin is: Admin
+[main] INFO Log - Actual Text of WelcomeAdmin is:Welcome Admin
+[main] INFO Log - Actual Text of WelcomeAdmin contains Expected Text of WelcomeAdmin - PASS
+[main] INFO Log - Expected Text of login panel of orangeHRM Login page is: "+ExpectedText_loginPanel
+[main] INFO Log - Expected Title of Orange HRM loginpage is: OrangeHRM
+[main] INFO Log - Actual Title of Orange HRM loginpage is: OrangeHRM
+[main] INFO Log - Both Actual and Expected Titles of OrangeHRM login page are same - PASS
+[main] INFO Log - Expected Url Address of Orange HRM loginpage is: orangehrm-4.2.0.1
+[main] INFO Log - Actual Url Address of Orange HRM loginpage is: http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+[main] INFO Log - Its a Login Page of OrangeHRM Application - PASS
+[main] INFO Log - Expected Text of login panel of orangeHRM Login page is: LOGIN Panel
+[main] INFO Log -  Actual Text of login panel of orangeHRM Login page is: LOGIN Panel
+[main] INFO Log - Actual and Expected Texts of LOGIN Panel of orangeHRM Login page are same - PASS
+[main] INFO Log - Expected Text of WelcomeAdmin is: Admin
+[main] INFO Log - Actual Text of WelcomeAdmin is:Welcome Admin
+[main] INFO Log - Actual Text of WelcomeAdmin contains Expected Text of WelcomeAdmin - PASS
+[main] INFO Log - Expected Title of Orange HRM loginpage is: OrangeHRM
+[main] INFO Log - Actual Title of Orange HRM loginpage is: OrangeHRM
+[main] INFO Log - Both Actual and Expected Titles of OrangeHRM login page are same - PASS
+[main] INFO Log - Expected Url Address of Orange HRM loginpage is: orangehrm-4.2.0.1
+[main] INFO Log - Actual Url Address of Orange HRM loginpage is: http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+[main] INFO Log - Its a Login Page of OrangeHRM Application - PASS
+[main] INFO Log - Expected Text of login panel of orangeHRM Login page is: LOGIN Panel
+[main] INFO Log -  Actual Text of login panel of orangeHRM Login page is: LOGIN Panel
+[main] INFO Log - Actual and Expected Texts of LOGIN Panel of orangeHRM Login page are same - PASS
+[main] INFO Log - Expected Text of WelcomeAdmin is: Admin
+[main] INFO Log - Actual Text of WelcomeAdmin is:Welcome Admin
+[main] INFO Log - Actual Text of WelcomeAdmin contains Expected Text of WelcomeAdmin - PASS
+[main] INFO Log - Expected Text of login panel of orangeHRM Login page is: "+ExpectedText_loginPanel

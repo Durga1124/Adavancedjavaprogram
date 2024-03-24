@@ -1,0 +1,22 @@
+INDEX VERSION 1.4+C:\Users\durga\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2590451627.index
+4172380390.index
+2304549359.index
+2937436667.index
+2120894029.index
+1331384251.index
+606536071.index
+917635176.index
+3364426204.index
+3879939584.index
+3648795007.index
+4139473993.index
+2432942508.index
+3808326892.index
+4111781909.index
+527627912.index
+468102113.index
+2250769419.index
+3547315867.index
+900933623.index
+2055933327.index

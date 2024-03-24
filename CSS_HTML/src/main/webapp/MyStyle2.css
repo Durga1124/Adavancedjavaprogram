@@ -1,0 +1,23 @@
+#heading{
+	color:deeppink;
+	text-align:centre;
+	boarder:2px solid;
+	margin-top:25px;
+	margin-bottom:50px;
+	margin-left:50px;
+	margin-right:50px;
+	backgroundcolor:yellow;
+}
+.mydesign{
+	 
+	 color:green;
+	text-align:center;
+	boarder:5px dotted;
+	padding-top:25px;
+	padding-bottom:25px;
+	padding-left:50px;
+	padding-right:50px;
+	backgroundcolor:yellow;
+	 
+	
+}

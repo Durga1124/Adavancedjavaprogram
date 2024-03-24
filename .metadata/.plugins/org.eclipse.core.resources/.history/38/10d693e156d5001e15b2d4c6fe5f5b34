@@ -1,0 +1,19 @@
+package DateTimeAPI;
+
+
+public class Enumdemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		demo d=demo.LOW;
+		System.out.println(d);
+		
+		week w=week.MONDAY;
+		System.out.println(w);
+		
+		Months m=Monthgs.JANAUARY;
+		System.out.println(m);
+	}
+
+}

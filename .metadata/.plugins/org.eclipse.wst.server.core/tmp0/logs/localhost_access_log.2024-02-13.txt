@@ -1,0 +1,5 @@
+127.0.0.1 - - [13/Feb/2024:16:05:01 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:16:05:02 +0530] "GET /EmployeesDetails/EmployeeServlet HTTP/1.1" 500 1254
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:16:05:02 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:16:05:31 +0530] "GET /EmployeesDetails/Employeedetails.html HTTP/1.1" 200 676
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:16:05:47 +0530] "GET /EmployeesDetails/EmployeeServlet?employeeId=123&employeeName=prasad&employeeBasicsalary=15000 HTTP/1.1" 200 252

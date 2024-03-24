@@ -1,0 +1,120 @@
+2023-08-23 16:30:21,947 - Log -INFO - Expected Title of Orange HRM loginpage is: OrangeHRM
+2023-08-23 16:30:21,965 - Log -INFO - Actual Title of Orange HRM loginpage is: OrangeHRM
+2023-08-23 16:30:21,968 - Log -INFO - Both Actual and Expected Titles of OrangeHRM login page are same - PASS
+2023-08-23 16:30:21,971 - Log -INFO - Expected Url Address of Orange HRM loginpage is: orangehrm-4.2.0.1
+2023-08-23 16:30:21,983 - Log -INFO - Actual Url Address of Orange HRM loginpage is: http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-08-23 16:30:21,987 - Log -INFO - Its a Login Page of OrangeHRM Application - PASS
+2023-08-23 16:30:22,016 - Log -INFO - Expected Text of login panel of orangeHRM Login page is: LOGIN Panel
+2023-08-23 16:30:22,038 - Log -INFO -  Actual Text of login panel of orangeHRM Login page is: LOGIN Panel
+2023-08-23 16:30:22,043 - Log -INFO - Actual and Expected Texts of LOGIN Panel of orangeHRM Login page are same - PASS
+2023-08-23 16:30:23,688 - Log -INFO - Expected Text of WelcomeAdmin is: Admin
+2023-08-23 16:30:23,724 - Log -INFO - Actual Text of WelcomeAdmin is:Welcome Admin
+2023-08-23 16:30:23,727 - Log -INFO - Actual Text of WelcomeAdmin contains Expected Text of WelcomeAdmin - PASS
+2023-08-23 16:30:24,435 - Log -INFO - Expected Text of login panel of orangeHRM Login page is: "+ExpectedText_loginPanel
+2023-08-23 16:32:09,462 - Log -INFO - Expected Title of Orange HRM loginpage is: OrangeHRM
+2023-08-23 16:32:09,477 - Log -INFO - Actual Title of Orange HRM loginpage is: OrangeHRM
+2023-08-23 16:32:09,480 - Log -INFO - Both Actual and Expected Titles of OrangeHRM login page are same - PASS
+2023-08-23 16:32:09,483 - Log -INFO - Expected Url Address of Orange HRM loginpage is: orangehrm-4.2.0.1
+2023-08-23 16:32:09,493 - Log -INFO - Actual Url Address of Orange HRM loginpage is: http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-08-23 16:32:09,498 - Log -INFO - Its a Login Page of OrangeHRM Application - PASS
+2023-08-23 16:32:09,526 - Log -INFO - Expected Text of login panel of orangeHRM Login page is: LOGIN Panel
+2023-08-23 16:32:09,544 - Log -INFO -  Actual Text of login panel of orangeHRM Login page is: LOGIN Panel
+2023-08-23 16:32:09,546 - Log -INFO - Actual and Expected Texts of LOGIN Panel of orangeHRM Login page are same - PASS
+2023-08-23 16:32:11,132 - Log -INFO - Expected Text of WelcomeAdmin is: Admin
+2023-08-23 16:32:11,173 - Log -INFO - Actual Text of WelcomeAdmin is:Welcome Admin
+2023-08-23 16:32:11,176 - Log -INFO - Actual Text of WelcomeAdmin contains Expected Text of WelcomeAdmin - PASS
+2023-08-23 16:32:11,941 - Log -INFO - Expected Text of login panel of orangeHRM Login page is: "+ExpectedText_loginPanel
+2023-08-23 16:32:37,201 - Log -INFO - Expected Title of Orange HRM loginpage is: OrangeHRM
+2023-08-23 16:32:37,216 - Log -INFO - Actual Title of Orange HRM loginpage is: OrangeHRM
+2023-08-23 16:32:37,219 - Log -INFO - Both Actual and Expected Titles of OrangeHRM login page are same - PASS
+2023-08-23 16:32:37,224 - Log -INFO - Expected Url Address of Orange HRM loginpage is: orangehrm-4.2.0.1
+2023-08-23 16:32:37,234 - Log -INFO - Actual Url Address of Orange HRM loginpage is: http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-08-23 16:32:37,237 - Log -INFO - Its a Login Page of OrangeHRM Application - PASS
+2023-08-23 16:32:37,267 - Log -INFO - Expected Text of login panel of orangeHRM Login page is: LOGIN Panel
+2023-08-23 16:32:37,287 - Log -INFO -  Actual Text of login panel of orangeHRM Login page is: LOGIN Panel
+2023-08-23 16:32:37,291 - Log -INFO - Actual and Expected Texts of LOGIN Panel of orangeHRM Login page are same - PASS
+2023-08-23 16:32:38,751 - Log -INFO - Expected Text of WelcomeAdmin is: Admin
+2023-08-23 16:32:38,800 - Log -INFO - Actual Text of WelcomeAdmin is:Welcome Admin
+2023-08-23 16:32:38,802 - Log -INFO - Actual Text of WelcomeAdmin contains Expected Text of WelcomeAdmin - PASS
+2023-08-23 16:32:39,484 - Log -INFO - Expected Text of login panel of orangeHRM Login page is: "+ExpectedText_loginPanel
+2023-08-23 16:33:30,939 - Log -INFO - Employee Photograph Successfully Uploaded to the OrangeHRM Application
+2023-08-23 16:38:53,546 - Log -INFO - Expected Title of Orange HRM loginpage is: OrangeHRM
+2023-08-23 16:38:53,570 - Log -INFO - Actual Title of Orange HRM loginpage is: OrangeHRM
+2023-08-23 16:38:53,573 - Log -INFO - Both Actual and Expected Titles of OrangeHRM login page are same - PASS
+2023-08-23 16:38:53,577 - Log -INFO - Expected Url Address of Orange HRM loginpage is: orangehrm-4.2.0.1
+2023-08-23 16:38:53,589 - Log -INFO - Actual Url Address of Orange HRM loginpage is: http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-08-23 16:38:53,593 - Log -INFO - Its a Login Page of OrangeHRM Application - PASS
+2023-08-23 16:38:53,627 - Log -INFO - Expected Text of login panel of orangeHRM Login page is: LOGIN Panel
+2023-08-23 16:38:53,647 - Log -INFO -  Actual Text of login panel of orangeHRM Login page is: LOGIN Panel
+2023-08-23 16:38:53,651 - Log -INFO - Actual and Expected Texts of LOGIN Panel of orangeHRM Login page are same - PASS
+2023-08-23 16:38:55,304 - Log -INFO - Expected Text of WelcomeAdmin is: Admin
+2023-08-23 16:38:55,335 - Log -INFO - Actual Text of WelcomeAdmin is:Welcome Admin
+2023-08-23 16:38:55,339 - Log -INFO - Actual Text of WelcomeAdmin contains Expected Text of WelcomeAdmin - PASS
+2023-08-23 16:38:58,105 - Log -INFO - Expected Text of login panel of orangeHRM Login page is: "+ExpectedText_loginPanel
+2023-08-23 16:40:08,700 - Log -INFO - Expected Title of Orange HRM loginpage is: OrangeHRM
+2023-08-23 16:40:08,714 - Log -INFO - Actual Title of Orange HRM loginpage is: OrangeHRM
+2023-08-23 16:40:08,720 - Log -INFO - Both Actual and Expected Titles of OrangeHRM login page are same - PASS
+2023-08-23 16:40:08,723 - Log -INFO - Expected Url Address of Orange HRM loginpage is: orangehrm-4.2.0.1
+2023-08-23 16:40:08,732 - Log -INFO - Actual Url Address of Orange HRM loginpage is: http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-08-23 16:40:08,737 - Log -INFO - Its a Login Page of OrangeHRM Application - PASS
+2023-08-23 16:40:08,764 - Log -INFO - Expected Text of login panel of orangeHRM Login page is: LOGIN Panel
+2023-08-23 16:40:08,784 - Log -INFO -  Actual Text of login panel of orangeHRM Login page is: LOGIN Panel
+2023-08-23 16:40:08,787 - Log -INFO - Actual and Expected Texts of LOGIN Panel of orangeHRM Login page are same - PASS
+2023-08-23 16:40:10,247 - Log -INFO - Expected Text of WelcomeAdmin is: Admin
+2023-08-23 16:40:10,283 - Log -INFO - Actual Text of WelcomeAdmin is:Welcome Admin
+2023-08-23 16:40:10,286 - Log -INFO - Actual Text of WelcomeAdmin contains Expected Text of WelcomeAdmin - PASS
+2023-08-23 16:40:12,974 - Log -INFO - Expected Text of login panel of orangeHRM Login page is: "+ExpectedText_loginPanel
+2023-08-23 16:40:41,502 - Log -INFO - Employee Photograph Successfully Uploaded to the OrangeHRM Application
+2023-08-23 16:41:13,758 - Log -INFO - Employee Photograph Successfully Uploaded to the OrangeHRM Application
+2023-08-23 16:43:01,559 - Log -INFO - Employee Photograph Successfully Uploaded to the OrangeHRM Application
+2023-08-23 16:44:36,794 - Log -INFO - Expected Title of Orange HRM loginpage is: OrangeHRM
+2023-08-23 16:44:36,818 - Log -INFO - Actual Title of Orange HRM loginpage is: OrangeHRM
+2023-08-23 16:44:36,822 - Log -INFO - Both Actual and Expected Titles of OrangeHRM login page are same - PASS
+2023-08-23 16:44:36,826 - Log -INFO - Expected Url Address of Orange HRM loginpage is: orangehrm-4.2.0.1
+2023-08-23 16:44:36,840 - Log -INFO - Actual Url Address of Orange HRM loginpage is: http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-08-23 16:44:36,845 - Log -INFO - Its a Login Page of OrangeHRM Application - PASS
+2023-08-23 16:44:36,878 - Log -INFO - Expected Text of login panel of orangeHRM Login page is: LOGIN Panel
+2023-08-23 16:44:36,901 - Log -INFO -  Actual Text of login panel of orangeHRM Login page is: LOGIN Panel
+2023-08-23 16:44:36,905 - Log -INFO - Actual and Expected Texts of LOGIN Panel of orangeHRM Login page are same - PASS
+2023-08-23 16:44:38,528 - Log -INFO - Expected Text of WelcomeAdmin is: Admin
+2023-08-23 16:44:38,566 - Log -INFO - Actual Text of WelcomeAdmin is:Welcome Admin
+2023-08-23 16:44:38,570 - Log -INFO - Actual Text of WelcomeAdmin contains Expected Text of WelcomeAdmin - PASS
+2023-08-23 16:44:41,323 - Log -INFO - Expected Text of login panel of orangeHRM Login page is: "+ExpectedText_loginPanel
+2023-08-28 12:41:58,588 - Log -INFO - Expected Title of Orange HRM loginpage is: OrangeHRM
+2023-08-28 12:41:58,602 - Log -INFO - Actual Title of Orange HRM loginpage is: OrangeHRM
+2023-08-28 12:41:58,605 - Log -INFO - Both Actual and Expected Titles of OrangeHRM login page are same - PASS
+2023-08-28 12:41:58,607 - Log -INFO - Expected Url Address of Orange HRM loginpage is: orangehrm-4.2.0.1
+2023-08-28 12:41:58,616 - Log -INFO - Actual Url Address of Orange HRM loginpage is: http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-08-28 12:41:58,621 - Log -INFO - Its a Login Page of OrangeHRM Application - PASS
+2023-08-28 12:41:58,639 - Log -INFO - Expected Text of login panel of orangeHRM Login page is: LOGIN Panel
+2023-08-28 12:41:58,657 - Log -INFO -  Actual Text of login panel of orangeHRM Login page is: LOGIN Panel
+2023-08-28 12:41:58,660 - Log -INFO - Actual and Expected Texts of LOGIN Panel of orangeHRM Login page are same - PASS
+2023-08-28 12:42:01,235 - Log -INFO - Expected Text of WelcomeAdmin is: Admin
+2023-08-28 12:42:01,267 - Log -INFO - Actual Text of WelcomeAdmin is:Welcome Admin
+2023-08-28 12:42:01,269 - Log -INFO - Actual Text of WelcomeAdmin contains Expected Text of WelcomeAdmin - PASS
+2023-08-28 12:42:04,496 - Log -INFO - Expected Text of login panel of orangeHRM Login page is: "+ExpectedText_loginPanel
+2023-08-28 12:42:16,878 - Log -INFO - Expected Title of Orange HRM loginpage is: OrangeHRM
+2023-08-28 12:42:16,893 - Log -INFO - Actual Title of Orange HRM loginpage is: OrangeHRM
+2023-08-28 12:42:16,901 - Log -INFO - Both Actual and Expected Titles of OrangeHRM login page are same - PASS
+2023-08-28 12:42:16,904 - Log -INFO - Expected Url Address of Orange HRM loginpage is: orangehrm-4.2.0.1
+2023-08-28 12:42:16,914 - Log -INFO - Actual Url Address of Orange HRM loginpage is: http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-08-28 12:42:16,918 - Log -INFO - Its a Login Page of OrangeHRM Application - PASS
+2023-08-28 12:42:16,950 - Log -INFO - Expected Text of login panel of orangeHRM Login page is: LOGIN Panel
+2023-08-28 12:42:16,970 - Log -INFO -  Actual Text of login panel of orangeHRM Login page is: LOGIN Panel
+2023-08-28 12:42:16,972 - Log -INFO - Actual and Expected Texts of LOGIN Panel of orangeHRM Login page are same - PASS
+2023-08-28 12:42:19,577 - Log -INFO - Expected Text of WelcomeAdmin is: Admin
+2023-08-28 12:42:19,616 - Log -INFO - Actual Text of WelcomeAdmin is:Welcome Admin
+2023-08-28 12:42:19,619 - Log -INFO - Actual Text of WelcomeAdmin contains Expected Text of WelcomeAdmin - PASS
+2023-10-11 10:47:01,993 - Log -INFO - Expected Title of Orange HRM loginpage is: OrangeHRM
+2023-10-11 10:47:02,003 - Log -INFO - Actual Title of Orange HRM loginpage is: OrangeHRM
+2023-10-11 10:47:02,006 - Log -INFO - Both Actual and Expected Titles of OrangeHRM login page are same - PASS
+2023-10-11 10:47:02,010 - Log -INFO - Expected Url Address of Orange HRM loginpage is: orangehrm-4.2.0.1
+2023-10-11 10:47:02,018 - Log -INFO - Actual Url Address of Orange HRM loginpage is: http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+2023-10-11 10:47:02,020 - Log -INFO - Its a Login Page of OrangeHRM Application - PASS
+2023-10-11 10:47:02,037 - Log -INFO - Expected Text of login panel of orangeHRM Login page is: LOGIN Panel
+2023-10-11 10:47:02,054 - Log -INFO -  Actual Text of login panel of orangeHRM Login page is: LOGIN Panel
+2023-10-11 10:47:02,057 - Log -INFO - Actual and Expected Texts of LOGIN Panel of orangeHRM Login page are same - PASS
+2023-10-11 10:47:03,300 - Log -INFO - Expected Text of WelcomeAdmin is: Admin
+2023-10-11 10:47:03,342 - Log -INFO - Actual Text of WelcomeAdmin is:Welcome Admin
+2023-10-11 10:47:03,345 - Log -INFO - Actual Text of WelcomeAdmin contains Expected Text of WelcomeAdmin - PASS
+2023-10-11 10:47:05,987 - Log -INFO - Expected Text of login panel of orangeHRM Login page is: "+ExpectedText_loginPanel

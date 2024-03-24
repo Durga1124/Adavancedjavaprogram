@@ -1,0 +1,10 @@
+127.0.0.1 - - [05/Feb/2024:16:20:27 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [05/Feb/2024:16:20:33 +0530] "GET /HelloWorldApp/servlet/com.sathya.servlet.HelloWorldServlet HTTP/1.1" 404 817
+127.0.0.1 - - [05/Feb/2024:16:20:33 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [05/Feb/2024:16:21:04 +0530] "GET /HelloWorldApp/servlet/com.sathya.servlet.HelloWorldServlet/test HTTP/1.1" 404 826
+0:0:0:0:0:0:0:1 - - [05/Feb/2024:16:21:38 +0530] "GET /HelloWorldApp/servlet/com.sathya.servlet.HelloWorldServlet HTTP/1.1" 404 817
+0:0:0:0:0:0:0:1 - - [05/Feb/2024:16:21:38 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [05/Feb/2024:16:21:49 +0530] "GET /HelloWorldApp/servlet/com.sathya.servlet.HelloWorldServlet/test HTTP/1.1" 404 826
+0:0:0:0:0:0:0:1 - - [05/Feb/2024:16:23:32 +0530] "GET /HelloWorldApp/servlet/com.sathya.servlet.HelloWorldServlet HTTP/1.1" 404 817
+0:0:0:0:0:0:0:1 - - [05/Feb/2024:16:24:02 +0530] "GET /HelloWorldApp/test HTTP/1.1" 404 773
+0:0:0:0:0:0:0:1 - - [05/Feb/2024:16:24:10 +0530] "GET /HelloWorldApp/test HTTP/1.1" 404 773

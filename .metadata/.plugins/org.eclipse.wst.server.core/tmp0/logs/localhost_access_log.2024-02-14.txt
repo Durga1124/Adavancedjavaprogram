@@ -1,0 +1,12 @@
+127.0.0.1 - - [14/Feb/2024:11:14:33 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:11:14:33 +0530] "GET /generatingnumbers/NumberServlet HTTP/1.1" 500 1250
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:11:14:33 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:11:15:13 +0530] "GET /generatingnumbers/generatingnumbers.html HTTP/1.1" 200 709
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:11:16:46 +0530] "GET /generatingnumbers/NumberServlet HTTP/1.1" 500 1250
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:11:17:29 +0530] "GET /generatingnumbers/NumberServlet?start=1&end=10&opetation=Even HTTP/1.1" 200 98
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:11:17:31 +0530] "GET /generatingnumbers/NumberServlet?start=1&end=10&opetation=Even HTTP/1.1" 200 98
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:11:17:33 +0530] "GET /generatingnumbers/NumberServlet?start=1&end=10&opetation=Even HTTP/1.1" 200 98
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:11:17:33 +0530] "GET /generatingnumbers/NumberServlet?start=1&end=10&opetation=Even HTTP/1.1" 200 98
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:11:17:34 +0530] "GET /generatingnumbers/NumberServlet?start=1&end=10&opetation=Even HTTP/1.1" 200 98
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:11:17:55 +0530] "GET /generatingnumbers/NumberServlet?start=1&end=10&opetation=Even HTTP/1.1" 200 98
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:11:18:33 +0530] "GET /generatingnumbers/NumberServlet?start=1&end=10&opetation=odd HTTP/1.1" 200 82
